@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  justify-content: center;
+  margin-top: 5rem;
+}
+
+#btn {
+  font-size: 1.5rem;
+  margin: 0 auto;
+}
+
+#text {
+  margin: 0 auto;
+  font-size: 1.2rem;
+}
